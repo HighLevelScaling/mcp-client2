@@ -13,7 +13,7 @@
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "1.17.3",
 		"agents": "^0.0.113",
-		"nanoid": "^5.1.5",
+		"nanoid": "^5.1.6",
 		"react": "^19.1.1",
 		"react-dom": "^19.1.1"
 	},
