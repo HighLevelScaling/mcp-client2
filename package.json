@@ -22,7 +22,7 @@
 		"@cloudflare/workers-types": "^4.20250831.0",
 		"@types/react": "^19.1.12",
 		"@types/react-dom": "^19.1.9",
-		"@vitejs/plugin-react": "^5.0.2",
+		"@vitejs/plugin-react": "^5.1.2",
 		"vite": "^7.1.4"
 	}
 }
