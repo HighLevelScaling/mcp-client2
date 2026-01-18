@@ -15,13 +15,13 @@
 		"agents": "^0.0.113",
 		"nanoid": "^5.1.5",
 		"react": "^19.1.1",
-		"react-dom": "^19.1.1"
+		"react-dom": "^19.2.3"
 	},
 	"devDependencies": {
 		"@cloudflare/vite-plugin": "^1.12.1",
 		"@cloudflare/workers-types": "^4.20250831.0",
 		"@types/react": "^19.1.12",
-		"@types/react-dom": "^19.1.9",
+		"@types/react-dom": "^19.2.3",
 		"@vitejs/plugin-react": "^5.0.2",
 		"vite": "^7.1.4"
 	}
